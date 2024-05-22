@@ -1,0 +1,1 @@
+This repository has been setup to hold my files for my Resume Website, hosted on AWS using an s3 bucket. Using the AWS code pipeline, any changes to my files that are committed on github automatically update on the website. 
