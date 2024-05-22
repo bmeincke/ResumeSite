@@ -3,7 +3,7 @@
 
 /* Palette 3 Colors */
 :root {
-    --navy: #61B38E;
+    --light-green: #61B38E;
     --teal: #3D9970;
     --light-teal: #7FDBFF;
     --light-gray: #DDDDDD;
@@ -25,7 +25,7 @@ body {
 }
 
 header {
-    background-color: var(--navy);
+    background-color: var(--light-green);
     color: var(--white);
     padding: 20px 0;
     position: relative;
@@ -95,7 +95,7 @@ section h2 {
 }
 
 footer {
-    background-color: var(--navy);
+    background-color: var(--light-green);
     color: var(--white);
     text-align: center;
     padding: 10px 0;
